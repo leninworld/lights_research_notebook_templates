@@ -4,4 +4,4 @@
 
 | Notebook Name  | Link | Comments |
 | ------------- | ------------- |  ------------- | 
-| machine_learning_template.ipynb| [link](https://github.com/leninworld/lights_research_notebook_templates/blob/main/machine_learning_template.ipynb) | Notebook with baseline algorithms for classification or regression tasks. |
+| machine_learning_template.ipynb| [link](https://github.com/leninworld/lights_research_notebook_templates/blob/main/machine_learning_template.ipynb) | (1) Notebook with baseline algorithms for classification or regression tasks. (2) calculate p-value for significance |
